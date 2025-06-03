@@ -62,3 +62,6 @@ parkingSystem.addCar(2); // return true because there is 1 available slot for a 
 parkingSystem.addCar(3); // return false because there is no available slot for a small car
 
 parkingSystem.addCar(1); // return false because there is no available slot for a big car. It is already occupied.
+
+
+  ![image](https://github.com/user-attachments/assets/c614bfca-153d-4f7d-b940-449c38b7d69a)
