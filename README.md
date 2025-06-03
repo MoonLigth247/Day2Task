@@ -24,4 +24,4 @@
      Гаралт  :
      3 мөр мэссэж хэвлэгдэх бөгөөд эхний мөрөнд шинэ цалин дараагийн мөрөнд нэмэгдсэн мөнгөн дүн 3дахь мөрөнд хэдэн хувиар нэмэгдсэн гэдэг нь гарч ирнэ .
 
-     ![image](https://github.com/user-attachments/assets/7050bb7c-473a-4af0-92a9-14f34aba3eb4)
+      ![image](https://github.com/user-attachments/assets/7050bb7c-473a-4af0-92a9-14f34aba3eb4)
